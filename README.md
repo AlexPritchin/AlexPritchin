@@ -35,9 +35,11 @@ Test project for one of the companies where I applied for a job.
 Simple React Native app for searching for physical exercises in an open web database.
 
 <p align="center">
-<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/99626042-6884-448e-adb9-5f651dc55df2.jpg" width="230" title="Exercise Search">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/0095077f-1e2c-44c7-90fd-c92641c6c0ae.jpg" width="230" title="Exercise Search">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/55783444-711c-4442-a072-4961cbf26958.jpg" width="230" title="Exercise Search">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/99626042-6884-448e-adb9-5f651dc55df2.jpg" width="230" title="Exercise Search">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/0095077f-1e2c-44c7-90fd-c92641c6c0ae.jpg" width="230" title="Exercise Search">
+</br>
+</br>
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/55783444-711c-4442-a072-4961cbf26958.jpg" width="230" title="Exercise Search">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/9cccbc7f-1d0c-4bc6-b3f7-c5981b4d298e.jpg" width="230" title="Exercise Search">
 
 </p>
@@ -50,9 +52,11 @@ Test project for one of the companies where I applied for a job.
 React Native app for managing a list of your favorite movies.
 
 <p align="center">
-<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/66f2570c-b907-4ad3-8982-3a829340c2e7.jpg" width="230" title="Mini Movies List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/b687c7aa-7532-4265-9f11-bad60dafc5e5.jpg" width="230" title="Mini Movies List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/cf3caa9f-ac58-4afb-aaa1-bc86683be0f4.jpg" width="230" title="Mini Movies List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/66f2570c-b907-4ad3-8982-3a829340c2e7.jpg" width="230" title="Mini Movies List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/b687c7aa-7532-4265-9f11-bad60dafc5e5.jpg" width="230" title="Mini Movies List">
+</br>
+</br>
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/cf3caa9f-ac58-4afb-aaa1-bc86683be0f4.jpg" width="230" title="Mini Movies List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/92752251-42c5-4c25-8cb6-291772e797ec.jpg" width="230" title="Mini Movies List">
 
 </p>
