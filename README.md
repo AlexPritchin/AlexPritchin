@@ -14,6 +14,24 @@ Food ordering app for a small restaurant.
 
 </p>
 
+# [Little Lemon Capstone Web App](https://github.com/AlexPritchin/LittleLemonCapstoneWeb)
+<p align="left"> <a href="https://github.com/AlexPritchin/LittleLemonCapstoneWeb"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+React (Web) app assignment for Meta Front-End Developer certificate.
+
+Table reservation app for a small restaurant.
+
+<p align="center">
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/c3f95730-e47c-4796-86c9-76ec734f37f1.jpg" width="690" title="Little Lemon Capstone Web">
+</br>
+</br>
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/ac76e2ee-fab4-464e-8d53-04ed057b541e.jpg" width="690" title="Little Lemon Capstone Web">
+</br>
+</br>
+<img src="https://github.com/AlexPritchin/AlexPritchin/assets/36710522/2361d73d-379e-439e-9cd9-f91ef322a774.jpg" width="690" title="Little Lemon Capstone Web">
+
+</p>
+
 # [Star Wars Favorites](https://github.com/AlexPritchin/StarWarsFavorites)
 <p align="left"> <a href="https://github.com/AlexPritchin/StarWarsFavorites"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
