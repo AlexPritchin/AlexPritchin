@@ -14,6 +14,21 @@ Food ordering app for a small restaurant.
 
 </p>
 
+# [E-Commerce Web App Design Implementation](https://github.com/AlexPritchin/ECommerce)
+<p align="left"> <a href="https://github.com/AlexPritchin/ECommerce"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+Implementation of design of e-commerce web app with carousel, products gallery, product and about pages.
+
+Technologies used: React, JS, SASS, CSS, Vite, Vercel, Pnpm.
+
+<a href="https://e-commerce-tau-nine-81.vercel.app/"> Live demo link </a>
+</br>
+</br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/26adeda8-61eb-454d-ad29-bc277950102a" width="690" title="E-commerce web app">
+
+</p>
+
 # [Little Lemon Capstone Web App](https://github.com/AlexPritchin/LittleLemonCapstoneWeb)
 <p align="left"> <a href="https://github.com/AlexPritchin/LittleLemonCapstoneWeb"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
