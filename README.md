@@ -18,6 +18,11 @@ Technologies used:
 * GeminiEmbedding
 * HuggingFaceEmbeddings
 
+</br>
+More info at repository's readme.md.
+</br>
+</br>
+
 [Link to live demo](https://t.me/ai_sci_article_navigator_bot)
 
 <p align="center">
